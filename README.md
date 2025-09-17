@@ -1,2 +1,3 @@
 # aula-web
-ddd
+Estão todos os exercícios das aulas
+
